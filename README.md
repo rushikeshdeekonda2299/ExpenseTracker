@@ -1,23 +1,18 @@
 # Expense Tracker with Visual Reports
 ## 📸 Screenshots
 
-### 🖥️ UI Screens
+### 🖥️ Main UI
+![UI 1](Screenshorts/ui1.png)
 
-#### Main Window
-![UI 1](Screenshots/ui1.png)
+### ➕ Add Expense Window
+![UI 2](Screenshorts/ui2.png)
 
-#### Add Expense Window
-![UI 2](Screenshots/ui2.png)
+### 📊 Expense Category Chart
+![Chart 1](Screenshorts/chartreport1.png)
 
----
+### 🧾 Monthly Summary Report
+![Chart 2](Screenshorts/chartreport2.png)
 
-### 📊 Charts & Reports
-
-#### Category-wise Expense Chart
-![Chart 1](Screenshots/chartreport1.png)
-
-#### Monthly Summary Report
-![Chart 2](Screenshots/chartreport2.png)
 
 
 A desktop-based GUI app to manage daily expenses using:
