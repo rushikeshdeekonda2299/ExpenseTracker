@@ -2,16 +2,16 @@
 ## 📸 Screenshots
 
 ### 🖥️ Main UI
-![UI 1](Screenshorts/ui1.png)
+![UI 1](Screenshots/ui1.png)
 
 ### ➕ Add Expense Window
-![UI 2](Screenshorts/ui2.png)
+![UI 2](Screenshots/ui2.png)
 
 ### 📊 Expense Category Chart
-![Chart 1](Screenshorts/chartreport1.png)
+![Chart 1](Screenshots/chartreport1.png)
 
 ### 🧾 Monthly Summary Report
-![Chart 2](Screenshorts/chartreport2.png)
+![Chart 2](Screenshots/chartreport2.png)
 
 
 
